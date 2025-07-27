@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://github.com/agrikatheprogrammer/CODEPATH_WEB102/blob/main/web102unit1/web102unit1.gif' title='Video Walkthrough' alt='Video Walkthrough' />
+<img src='https://github.com/LeeManayaga/CODEPATH_WEB102-Unit-1/blob/main/web102unit1/src/web102unit1test.gif' title='Video Walkthrough' alt='Video Walkthrough' />
 
 GIF created with Ezgif
 
