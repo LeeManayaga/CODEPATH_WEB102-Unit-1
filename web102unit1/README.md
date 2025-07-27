@@ -1,4 +1,4 @@
-# Web Development Project 1 - *Best Sellers for Young Adult Books*
+# Web Development Project 1 -
 
 Submitted by: **Agrika Gupta**
 
